@@ -1,6 +1,7 @@
 ## Requirements for quiz game  mini project
 
-## Identifying features 
+## Identifying features
+
 -- Participants can enter the quiz by enter their name.
 
 -- Show the overall process to the participants before entering quiz.
@@ -17,16 +18,12 @@
 
 -- Winner gets the rewards and points by increasing the levels,
 
-
-
 ## State of art/Research
 
 [QUIZ GAME](https://en.wikipedia.org/wiki/Quiz)
 
 ![Quiz time](https://codecanyon.img.customer.envatousercontent.com/files/291711730/inline.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=21bf20823e1ab1356e992156d96d1b0e)
 Quiz time
-
-
 
 # 4W's and 1-H 
 
