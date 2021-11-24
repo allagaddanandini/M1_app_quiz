@@ -1,11 +1,12 @@
-# High Level Test Plan
+# TEST PLAN
+## High Level Test Plan
 
 |ID|Description|Expected I/P|Expected O/P|Actual O/P|Type of Test|
 |:----:|:---------------:|:--------------:|:-----------------:|:-------------:|:-------:|
 HP01	|user interface	|Character y	|Enter the answer	|Pass	|Requirement|
 
 
-# Low Level Test Plan
+## Low Level Test Plan
 
 |ID|	Description|	Expected I/P|	Expected O/P|	Actual O/P|	Type of Test|
 |:-----:|:-------------:|:-------------------------------|:-------------------:|:--------------------:|:----------:|
