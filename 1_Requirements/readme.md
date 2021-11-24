@@ -19,7 +19,7 @@
 
 
 
-# State of art/Research
+## State of art/Research
 
 [QUIZ GAME](https://en.wikipedia.org/wiki/Quiz)
 
@@ -30,34 +30,34 @@ Quiz time
 
 # 4W's and 1-H 
 
-### who:
+### who
 
 -- allagaddanandini try to implement to problem statement.
 
 -- everyone can access the game.
 
-### What:
+### What
 
 -- Implementing the online application to improve the knowledge.
 
 -- And  for any quantitative exams preparation 
 
-### When:
+### When
 
 -- at any time it can be accessed after installation of App
 
-### where:
+### where
 
 -- online platform
 
-### How:
+### How
 
 -- This is implemented by the c programing  language.
 
 
 # SWOT analysis
 
-### strengths:
+### strengths
 
 -- this is most reputated quiz platform.
 
@@ -67,7 +67,7 @@ Quiz time
 
 -- scope of improve the features in furture.
 
-### weakness:
+### weakness
 
 -- due to online some of the people won't participate in it.
 
@@ -77,7 +77,7 @@ Quiz time
 
 -- some of them can be disappointed due to results
 
-### Opportunities:
+### Opportunities
 
 -- Potential to to diversity into related market segments.
 
@@ -90,7 +90,7 @@ Quiz time
 
 
 
-### Threats:
+### Threats
 
 -- Compitetion with other quiz platforms.
 
