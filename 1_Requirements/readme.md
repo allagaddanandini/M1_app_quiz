@@ -18,14 +18,14 @@ Identifying features
 
 -- Winner gets the rewards and points by increasing the levels,
 
-# State of art/Research
+ State of art/Research
 
 [QUIZ GAME](https://en.wikipedia.org/wiki/Quiz)
 
 ![Quiz time](https://codecanyon.img.customer.envatousercontent.com/files/291711730/inline.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=21bf20823e1ab1356e992156d96d1b0e)
 Quiz time
 
-# 4W's and 1-H 
+ 4W's and 1-H 
 
  who
  
@@ -52,7 +52,7 @@ Quiz time
 -- This is implemented by the c programing  language.
 
 
-# SWOT analysis
+ SWOT analysis
 
  strengths
  
@@ -87,21 +87,21 @@ Quiz time
 
 
 
- Threats
+-- Threats
  
 -- Compitetion with other quiz platforms.
 
 -- Slow Internet connection.
 
 
-# High level requirements as per template 
+ High level requirements as per template 
 
  |HLR_ID| Description| Status(Implemented/Future)|
  |:----------|:-------------|:--------------------|
  |HLR_1|Entering the quiz|-
  |HLR_2|Participates in quiz|-
 
-# Low level requirements as per template
+ Low level requirements as per template
 
 |LLR_ID| Description|Status(Implemented/Future)|
 |:---------|:----------------|:-------------------------|
