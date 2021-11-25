@@ -1,5 +1,5 @@
-## Requirements for quiz game  mini project
-## Identifying features
+# Requirements for quiz game  mini project
+# Identifying features
 -- Participants can enter the quiz by enter their name.
 
 -- Show the overall process to the participants before entering quiz.
@@ -16,35 +16,35 @@
 
 -- Winner gets the rewards and points by increasing the levels,
 
-## State of art/Research
+# State of art/Research
 [QUIZ GAME](https://en.wikipedia.org/wiki/Quiz)
 
 ![Quiz time](https://codecanyon.img.customer.envatousercontent.com/files/291711730/inline.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=21bf20823e1ab1356e992156d96d1b0e)
 Quiz time
 
 # 4W's and 1-H 
-### who
+# who
 -- allagaddanandini try to implement to problem statement.
 
 -- everyone can access the game.
 
-### What
+# What
 -- Implementing the online application to improve the knowledge.
 
 -- And  for any quantitative exams preparation 
 
-### When
+# When
 -- at any time it can be accessed after installation of App
 
-### where
+# where
 -- online platform
 
-### How
+# How
 -- This is implemented by the c programing  language.
 
 
 # SWOT analysis
-### strengths
+# strengths
 -- this is most reputated quiz platform.
 
 -- well designed and architecture quiz.
@@ -53,7 +53,7 @@ Quiz time
 
 -- scope of improve the features in furture.
 
-### weakness
+# weakness
 -- due to online some of the people won't participate in it.
 
 -- most of the time should spend in online  and with mobiles.
@@ -62,7 +62,7 @@ Quiz time
 
 -- some of them can be disappointed due to results
 
-### Opportunities
+# Opportunities
 -- Potential to to diversity into related market segments.
 
 -- Can reach to more locations.
@@ -74,7 +74,7 @@ Quiz time
 
 
 
-### Threats
+# Threats
 -- Compitetion with other quiz platforms.
 
 -- Slow Internet connection.
