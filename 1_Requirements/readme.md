@@ -51,7 +51,6 @@ Quiz time
  
 -- This is implemented by the c programing  language.
 
-
  SWOT analysis
 
  strengths
@@ -85,23 +84,20 @@ Quiz time
   
 -- Pupils can use their own mobile devices.
 
-
-
--- Threats
+ Threats
  
 -- Compitetion with other quiz platforms.
 
 -- Slow Internet connection.
 
-
- High level requirements as per template 
+# High level requirements as per template 
 
  |HLR_ID| Description| Status(Implemented/Future)|
  |:----------|:-------------|:--------------------|
  |HLR_1|Entering the quiz|-
  |HLR_2|Participates in quiz|-
 
- Low level requirements as per template
+# Low level requirements as per template
 
 |LLR_ID| Description|Status(Implemented/Future)|
 |:---------|:----------------|:-------------------------|
@@ -113,5 +109,7 @@ Quiz time
 |LLR_3_HLR_2|Provide question with options by entering into new functions question1.|	-
 |LLR_4_HLR_2|Participares have to choice one choice in th given choices.|	-
 |LLR_5_HLR_2|Show "Give proper response", when give other than given choices|-	
+
+
 
 
