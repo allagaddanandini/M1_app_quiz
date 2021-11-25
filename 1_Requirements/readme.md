@@ -90,14 +90,14 @@ Quiz time
 
 -- Slow Internet connection.
 
-# High level requirements as per template 
+## High level requirements as per template 
 
  |HLR_ID| Description| Status(Implemented/Future)|
  |:----------|:-------------|:--------------------|
  |HLR_1|Entering the quiz|-
  |HLR_2|Participates in quiz|-
 
-# Low level requirements as per template
+## Low level requirements as per template
 
 |LLR_ID| Description|Status(Implemented/Future)|
 |:---------|:----------------|:-------------------------|
