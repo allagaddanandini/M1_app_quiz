@@ -1,6 +1,6 @@
 # Requirements for quiz game  mini project
 
-# Identifying features
+ Identifying features
 
 -- Participants can enter the quiz by enter their name.
 
@@ -18,7 +18,7 @@
 
 -- Winner gets the rewards and points by increasing the levels,
 
-# State of art/Research
+ State of art/Research
 
 [QUIZ GAME](https://en.wikipedia.org/wiki/Quiz)
 
@@ -27,33 +27,33 @@ Quiz time
 
  # 4W's and 1-H 
 
-# who
+ who
  
 -- allagaddanandini try to implement to problem statement.
 
 -- everyone can access the game.
 
-# What
+ What
  
 -- Implementing the online application to improve the knowledge.
 
 -- And  for any quantitative exams preparation 
 
-# When
+ When
  
 -- at any time it can be accessed after installation of App
 
-# where
+ where
  
 -- online platform
 
-# How
+ How
  
 -- This is implemented by the c programing  language.
 
 # SWOT analysis
 
-# strengths
+ strengths
  
 -- this is most reputated quiz platform.
 
@@ -63,7 +63,7 @@ Quiz time
 
 -- scope of improve the features in furture.
 
-# weakness
+ weakness
  
 -- due to online some of the people won't participate in it.
 
@@ -73,7 +73,7 @@ Quiz time
 
 -- some of them can be disappointed due to results
 
-# Opportunities
+ Opportunities
  
 -- Potential to to diversity into related market segments.
 
@@ -84,20 +84,20 @@ Quiz time
   
 -- Pupils can use their own mobile devices.
 
-# Threats
+ Threats
  
 -- Compitetion with other quiz platforms.
 
 -- Slow Internet connection.
 
-## High level requirements as per template 
+ High level requirements as per template 
 
  |HLR_ID| Description| Status(Implemented/Future)|
  |:----------|:-------------|:--------------------|
  |HLR_1|Entering the quiz|-
  |HLR_2|Participates in quiz|-
 
-## Low level requirements as per template
+ Low level requirements as per template
 
 |LLR_ID| Description|Status(Implemented/Future)|
 |:---------|:----------------|:-------------------------|
@@ -109,6 +109,10 @@ Quiz time
 |LLR_3_HLR_2|Provide question with options by entering into new functions question1.|	-
 |LLR_4_HLR_2|Participares have to choice one choice in th given choices.|	-
 |LLR_5_HLR_2|Show "Give proper response", when give other than given choices|-	
+
+
+
+
 
 
 
