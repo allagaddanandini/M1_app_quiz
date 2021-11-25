@@ -82,13 +82,13 @@ Quiz time
 
 # High level requirements as per template 
  |HLR_ID| Description| Status(Implemented/Future)|
- |:----------|:-------------|:------------------------------|
+ |:----------|:-------------|:--------------------|
  |HLR_1|Entering the quiz|-
  |HLR_2|Participates in quiz|-
 
 # Low level requirements as per template
 |LLR_ID| Description|Status(Implemented/Future)|
-|:---------|:---------------------------------|:----------------------------------|
+|:---------|:----------------|:-------------------------|
 |LLR_1_HLR_1|Participants give y to enter n to exit in char type. |	-
 |LLR_2_HLR_1|Show "Give proper response", when give other than y (or) n. |	-
 |LLR_3_HLR_1|Continue quiz if y given, exit when n is given.|	-
