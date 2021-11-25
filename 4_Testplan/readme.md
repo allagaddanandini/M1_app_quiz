@@ -18,7 +18,8 @@
 |LLR_4_HLR_2|Participares have to choice one choice in th given choices.|	
 |LLR_5_HLR_2|Show "Give proper response", when give other than given choices|	
 
-| Test_Id  |   Desciption  |  Expected I/O | Expected O/P  | Actual O/P|Test type|
+
+| Test_Id  |   Description  |  Expected I/O | Expected O/P  | Actual O/P|Test type|
 | -------- |   --------------   |  -------------- | ---------------      | ------------- | -------------|
 | LP01     |   User View all the rules of the game     |  Character Y    | View Rules and Exits | Pass  | Requirement |
 | LP02     |   user has an option to exit  |  Character N    | Exits     | Pass          | Requirement |
